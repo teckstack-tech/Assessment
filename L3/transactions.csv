@@ -1,3 +1,4 @@
+txn_id,cust_id,name,age,city,date,amount,payment_mode
 TXN0001,CUST2824,Allison Hill,19,Phoenix,20-06-2024,,Debit Card
 TXN0002,CUST2679,Brian Yang,61,Seattle,23-10-2024,96.07,UPI
 TXN0003,CUST1520,Javier Johnson,19,Los Angeles,18-06-2024,226.45,Net Banking
